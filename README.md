@@ -2,6 +2,10 @@
 
 Simple Python scripts to chat with large language models (LLMs) from various sources. This README will guide you step by step—even if you’re new to Python or command-line tools.
 
+[![Support my work ❤️](https://img.shields.io/badge/Support%20my%20work%20❤️-orange?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/orobocigano)
+
+
+
 ## Prerequisites
 1. **Python 3.8+** installed.  
 2. **pip** (Python package installer).  
